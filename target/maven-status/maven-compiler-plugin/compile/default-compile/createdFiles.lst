@@ -1,4 +1,6 @@
+com\learn\spring\primitiveDataType\Student.class
 com\learn\springlearn\resources\JakartaEE10Resource.class
 com\learn\springcore\Main.class
-com\learn\springlearn\JakartaRestConfiguration.class
+com\learn\spring\primitiveDataType\Main.class
 com\learn\entities\Student.class
+com\learn\springlearn\JakartaRestConfiguration.class
